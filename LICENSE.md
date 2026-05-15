@@ -1,4 +1,4 @@
-# 
+# updated grid trading bot for futures Addon | grid-trading + order-book-analysis offers the most advanced grid trading bot for futures, with grid-trading and order-book-analysis.
 
 
 
